@@ -1,0 +1,1 @@
+### Short Project to learn basics of NextJS
